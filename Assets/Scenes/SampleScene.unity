@@ -8830,7 +8830,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hudCanvas: {fileID: 1372301831}
   hudDistance: 1
-  hudScale: 0.01
+  hudScale: 1
 --- !u!1 &1817799408
 GameObject:
   m_ObjectHideFlags: 0
