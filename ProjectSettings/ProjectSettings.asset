@@ -143,6 +143,9 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 0c13027209e344dfea33e7acbdc21533, type: 2}
+  - {fileID: -8816960111962549402, guid: 58e095791f96c42b8b585bfcfc0a651e, type: 2}
+  - {fileID: 11400000, guid: 88d29d2200d56470abffd0a332f21647, type: 2}
+  - {fileID: 11400000, guid: 287fee18a938e43f2b7f36ebd2f1368d, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -497,7 +500,7 @@ PlayerSettings:
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport
-    m_GraphicsJobs: 0
+    m_GraphicsJobs: 1
   - m_BuildTarget: Switch
     m_GraphicsJobs: 1
   - m_BuildTarget: MetroSupport
@@ -954,11 +957,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 667cc9e6-ed9c-46ec-ae4e-a193412c3b41
+  cloudProjectId: 2a4c7dc1-7ac0-4ad8-a7f2-75a5a86b68da
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: TreeHacks
-  organizationId: tkwok7
+  organizationId: thekathiehuang
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
